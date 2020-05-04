@@ -1,14 +1,14 @@
 spring:
-    profiles:
-        active:
-        - dev
+  profiles:
+    active:
+    - dev
 
 spring:
-    profiles: dev
-    application:
-         name: microservicecloud-config-zyk-dev
+  profiles: dev
+  application:
+    name: microservicecloud-config-zyk-dev
 
 spring:
-    profiles: test
-    application:
-         name: microservicecloud-config-zyk-test
+  profiles: test
+  application:
+    name: microservicecloud-config-zyk-test
