@@ -2,25 +2,15 @@ spring:
   profiles:
     active:
     - dev
-<<<<<<< HEAD
-
-=======
 ---
->>>>>>> 76f79bd777cf5976a01ea9266adf8f50bca9a74f
 spring:
   profiles: dev
   application:
     name: microservicecloud-config-zyk-dev
-<<<<<<< HEAD
-
-spring:
-  profiles: test
-  application:
-    name: microservicecloud-config-zyk-test
-=======
 ---
 spring:
   profiles: test
   application:
     name: microservicecloud-config-zyk-test
->>>>>>> 76f79bd777cf5976a01ea9266adf8f50bca9a74f
+
+
